@@ -13,15 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Uvindu+Dewsara;Don't+Forget+To+Follow+Me..." alt="Typing SVG" />
 </a>
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=UvinduDewsara" alt="Uvindu's GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UvinduDewsara&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
-  </a>
-</div>
-
 <h2>Hi there 👋</h2>
 
 <ul>
